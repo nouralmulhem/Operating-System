@@ -1,5 +1,5 @@
 # Operating-System
-it is a simulator to show the function of the scheduler of the operating system
+it is a simulator to show the function of the scheduler of the operating system 
 
 it schedules with many different algorithms:
 - First come first served (FCFS)
