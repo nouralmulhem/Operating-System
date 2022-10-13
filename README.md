@@ -8,4 +8,4 @@ it schedules with many different algorithms:
 
 <br/>
 
-keeping in mind the memory capacity, it basicly do two level scheduling (short term and long term)
+keeping in mind the memory capacity, it basicly do two level scheduling (short term and long term).
